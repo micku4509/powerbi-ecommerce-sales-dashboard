@@ -60,7 +60,7 @@ The dashboard provides actionable insights into **total sales, profit, quantity 
 ---
 
 ## 🔗 Project Link
-👉 [View GitHub Repository](https://github.com/yourusername/powerbi-ecommerce-sales-dashboard)
+👉 [View GitHub Repository](https://github.com/micku4509/powerbi-ecommerce-sales-dashboard)
 
 ---
 
