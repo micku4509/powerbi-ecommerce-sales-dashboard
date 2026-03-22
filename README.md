@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 This Power BI project analyzes **e-commerce sales performance** across multiple regions, product categories, and payment modes.  
-The dashboard provides actionable insights into **total sales, profit, quantity sold, and average order value (AOV)**, helping businesses track KPIs and improve decision-making.
+The dashboard provides actionable insights into **total sales, profit, quantity sold, and average order value (AOV), helping businesses track KPIs and improve decision-making.
 
 ---
 
